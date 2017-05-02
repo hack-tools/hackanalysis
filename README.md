@@ -1,3 +1,5 @@
+<img src="ha_logo.png" alt="logo" align="right">
+
 # HackAnalysis
 A list of methods and a workflow to validate, review and create reports for git repositories (projects). Useful for Hackathons.
 
@@ -17,12 +19,12 @@ Create a Report for a **Git** project according to the workflow below.
 - [ ] 10) Are there any commits during the "forced break"?
 
  ## Displays/Reports
- 
+
  1. One page HTML
  2. txt file
- 
+
  ## Manual tasks
- 
+
  1. Clone the repo locally
  2. Follow the installation instructions
  3. Check functionality (useage, login forms, errors etc)
