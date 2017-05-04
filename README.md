@@ -21,10 +21,28 @@ Create a Report for a **Git** project according to the workflow below.
  ## Displays/Reports
 
  1. One page HTML
- 2. txt file
+ 2. PDF file (from HTML)
 
  ## Manual tasks
 
  1. Clone the repo locally
  2. Follow the installation instructions
- 3. Check functionality (useage, login forms, errors etc)
+ 3. Check functionality, eg:
+
+  - Basic usage
+  - Login forms
+  - Console log errors
+  - Behavior on small screens and mobile devices
+
+## Companion tools
+
+- [git_stats](https://github.com/tomgi/git_stats)
+- [git-stats](https://github.com/IonicaBizau/git-stats)
+- [gitstats](http://gitstats.sourceforge.net)
+- [gitinspector](https://github.com/ejwa/gitinspector)
+
+- [Qafoo - QualityAnalyzer](https://github.com/Qafoo/QualityAnalyzer)
+- [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis)
+
+- [codacy.com](https://www.codacy.com)
+- [codeclimate.com](https://codeclimate.com)
