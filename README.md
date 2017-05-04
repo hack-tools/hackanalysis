@@ -36,15 +36,16 @@ Create a Report for a **Git** project according to the workflow below.
 
 ## Companion tools
 
+Git repository analysis
   - [git_stats](https://github.com/tomgi/git_stats)
   - [git-stats](https://github.com/IonicaBizau/git-stats)
   - [gitstats](http://gitstats.sourceforge.net)
   - [gitinspector](https://github.com/ejwa/gitinspector)
 
-
+Offline
   - [Qafoo - QualityAnalyzer](https://github.com/Qafoo/QualityAnalyzer)
   - [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis)
 
-
+Online
   - [codacy.com](https://www.codacy.com)
   - [codeclimate.com](https://codeclimate.com)
