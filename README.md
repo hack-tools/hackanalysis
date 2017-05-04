@@ -41,8 +41,10 @@ Create a Report for a **Git** project according to the workflow below.
 - [gitstats](http://gitstats.sourceforge.net)
 - [gitinspector](https://github.com/ejwa/gitinspector)
 
+
 - [Qafoo - QualityAnalyzer](https://github.com/Qafoo/QualityAnalyzer)
 - [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis)
+
 
 - [codacy.com](https://www.codacy.com)
 - [codeclimate.com](https://codeclimate.com)
