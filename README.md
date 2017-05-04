@@ -36,15 +36,15 @@ Create a Report for a **Git** project according to the workflow below.
 
 ## Companion tools
 
-- [git_stats](https://github.com/tomgi/git_stats)
-- [git-stats](https://github.com/IonicaBizau/git-stats)
-- [gitstats](http://gitstats.sourceforge.net)
-- [gitinspector](https://github.com/ejwa/gitinspector)
+  - [git_stats](https://github.com/tomgi/git_stats)
+  - [git-stats](https://github.com/IonicaBizau/git-stats)
+  - [gitstats](http://gitstats.sourceforge.net)
+  - [gitinspector](https://github.com/ejwa/gitinspector)
 
 
-- [Qafoo - QualityAnalyzer](https://github.com/Qafoo/QualityAnalyzer)
-- [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis)
+  - [Qafoo - QualityAnalyzer](https://github.com/Qafoo/QualityAnalyzer)
+  - [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis)
 
 
-- [codacy.com](https://www.codacy.com)
-- [codeclimate.com](https://codeclimate.com)
+  - [codacy.com](https://www.codacy.com)
+  - [codeclimate.com](https://codeclimate.com)
