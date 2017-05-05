@@ -18,7 +18,22 @@ Create a Report for a **Git** project according to the workflow below.
 - [ ] 9) Make a Static Code (Software) Analysis (for the main project language).
 - [ ] 10) Are there any commits during the "forced break"?
 
- ## Displays/Reports
+## Basic characteristics to Validate (or take into consideration)
+
+ - [ ] Usage of a Framework(s)
+ - [ ] REST API, SDK, SOAP etc
+ - [ ] Responsive Design
+ - [ ] Administration
+ - [ ] Member accounts and personalization
+ - [ ] Documentation
+ - [ ] 3rd Party integrations
+ - [ ] Platforms available
+ - [ ] Consume or produce open data
+ - [ ] MVP status
+ - [ ] New and cutting edge technologies used
+ - [ ] Cross platform
+
+## Displays/Reports
 
  1. One page HTML
  2. PDF file (from HTML)
