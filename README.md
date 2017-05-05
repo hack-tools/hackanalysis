@@ -18,7 +18,9 @@ Create a Report for a **Git** project according to the workflow below.
 - [ ] 9) Make a Static Code (Software) Analysis (for the main project language).
 - [ ] 10) Are there any commits during the "forced break"?
 
-## Basic characteristics to Validate (or take into consideration)
+## Validation categories
+
+Basic characteristics to Validate (or take into consideration).
 
  - [ ] Usage of a Framework(s)
  - [ ] REST API, SDK, SOAP etc
