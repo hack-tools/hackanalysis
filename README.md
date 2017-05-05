@@ -45,11 +45,11 @@ Basic characteristics to Validate (or take into consideration).
  1. Clone the repo locally
  2. Follow the installation instructions
  3. Check functionality, eg:
-
-  - Basic usage
-  - Login forms
-  - Console log errors
-  - Behavior on small screens and mobile devices
+    - Basic usage
+    - Login forms
+    - Console log errors
+    - Behavior on small screens and mobile devices
+    - Browser support
 
 ## Companion tools
 
