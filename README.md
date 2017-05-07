@@ -34,6 +34,7 @@ Basic characteristics to Validate (or take into consideration).
  - [ ] MVP status
  - [ ] New and cutting edge technologies used
  - [ ] Cross platform
+ - [ ] Database queries quality
 
 ## Displays/Reports
 
