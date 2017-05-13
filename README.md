@@ -3,6 +3,17 @@
 # HackAnalysis
 A list of methods and a workflow to validate, review and create reports for git repositories (projects). Useful for Hackathons.
 
+---
+
+**Table of Contents**
+  * [Scope](#scope)
+  * [Validation categories](#validation-categories)
+  * [Displays/Reports](#displaysreports)
+  * [Manual tasks](#manual-tasks)
+  * [Companion tools](#companion-tools)
+
+---
+
 ## Scope
 
 Create a Report for a **Git** project according to the workflow below.
