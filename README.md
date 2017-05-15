@@ -1,4 +1,4 @@
-<a href="/"><img src="hackanalysis_logo.png" alt="logo" align="right"></a>
+<a href="https://hack-tools.github.io/"><img src="hackanalysis_logo.png" alt="logo" align="right"></a>
 
 # HackAnalysis
 A list of methods and a workflow to validate, review and create reports for Hackathon projects.
