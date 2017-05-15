@@ -1,7 +1,7 @@
 <a href="/"><img src="hackanalysis_logo.png" alt="logo" align="right"></a>
 
 # HackAnalysis
-A list of methods and a workflow to validate, review and create reports for git repositories (projects). Useful for Hackathons.
+A list of methods and a workflow to validate, review and create reports for Hackathon projects.
 
 ---
 
