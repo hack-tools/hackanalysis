@@ -1,4 +1,4 @@
-<img src="hackanalysis_logo.png" alt="logo" align="right">
+<a href="/"><img src="hackanalysis_logo.png" alt="logo" align="right"></a>
 
 # HackAnalysis
 A list of methods and a workflow to validate, review and create reports for git repositories (projects). Useful for Hackathons.
@@ -33,19 +33,19 @@ Create a Report for a **Git** project according to the workflow below.
 
 Basic characteristics to Validate (or take into consideration).
 
- - [ ] Usage of a Framework(s)
- - [ ] REST API, SDK, SOAP etc
- - [ ] Responsive Design
- - [ ] Administration
- - [ ] Member accounts and personalization
- - [ ] Documentation
- - [ ] 3rd Party integrations
- - [ ] Platforms available
- - [ ] Consume or produce open data
- - [ ] MVP status
- - [ ] New and cutting edge technologies used
- - [ ] Cross platform
- - [ ] Database queries quality
+ - Usage of a Framework(s)
+ - REST API, SDK, SOAP etc
+ - Responsive Design
+ - Administration
+ - Member accounts and personalization
+ - Documentation
+ - 3rd Party integrations
+ - Platforms available
+ - Consume or produce open data
+ - MVP status
+ - New and cutting edge technologies used
+ - Cross platform
+ - Database queries quality
 
 ## Displays/Reports
 
