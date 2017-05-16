@@ -1,7 +1,10 @@
+<p></p>
 <a href="https://hack-tools.github.io/"><img src="hackanalysis_logo.png" alt="logo" align="right"></a>
 
 # HackAnalysis
 A list of methods and a workflow to validate, review and create reports for Hackathon projects.
+
+[edit](https://github.com/hack-tools/hackanalysis/edit/master/README.md)
 
 ---
 
@@ -77,3 +80,5 @@ Offline
 Online
   - [codacy.com](https://www.codacy.com)
   - [codeclimate.com](https://codeclimate.com)
+
+<p></p>
