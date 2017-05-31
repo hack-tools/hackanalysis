@@ -76,6 +76,7 @@ Git repository analysis
 Offline
   - [Qafoo - QualityAnalyzer](https://github.com/Qafoo/QualityAnalyzer)
   - [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis)
+  - [Sitespeed.io](https://www.sitespeed.io)
 
 Online
   - [codacy.com](https://www.codacy.com)
